@@ -1,0 +1,32 @@
+{
+  "name": "ezmid-api",
+  "version": "0.0.0",
+  "private": true,
+  "engines": {
+    "node": "14.16.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "mini-create-react-context": "^0.3.3",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.7",
+    "morgan": "~1.9.1",
+    "node-gyp": "^7.1.2",
+    "node-pre-gyp": "^0.17.0",
+    "nodeman": "^1.1.2"
+  }
+}
